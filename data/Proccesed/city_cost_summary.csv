@@ -1,0 +1,5 @@
+City,average_rent,median_rent,average_price_per_room,average_price_per_sqm,basic_basket_cost,monthly_transport,average_salary,average_size_sqm,arnona_rate_per_sqm_yearly,estimated_monthly_arnona,rent_to_salary_ratio,rent_to_salary_percent,total_monthly_cost,disposable_income
+Haifa,4420.37,4000.0,1397.26,54.96,125.68,323.0,15854.0,70,69.0,402.5,0.28,27.88,5271.55,10582.45
+Jerusalem,11524.78,8650.0,2930.91,107.64,127.29,323.0,11480.0,65,65.0,352.08,1.0,100.39,12327.15,-847.15
+Ramat Gan,7376.4,7000.0,2159.88,83.86,121.22,323.0,19282.0,65,81.0,438.75,0.38,38.26,8259.37,11022.63
+Tel Aviv,11921.14,10500.0,3761.14,136.47,145.45,323.0,21283.0,65,90.0,487.5,0.56,56.01,12877.09,8405.91

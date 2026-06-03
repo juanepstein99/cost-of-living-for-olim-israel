@@ -1,0 +1,278 @@
+City,Neighborhood,price,rooms,price_per_room,price_per_sqm
+Tel Aviv,Florentin,11000.0,3.0,3666.67,164.18
+Tel Aviv,Florentin,8950.0,3.0,2983.33,124.31
+Tel Aviv,Florentin,15000.0,5.0,3000.0,125.0
+Tel Aviv,Florentin,22000.0,5.0,4400.0,133.33
+Tel Aviv,Florentin,7500.0,2.0,3750.0,159.57
+Tel Aviv,Florentin,7700.0,3.0,2566.67,132.76
+Tel Aviv,Florentin,6000.0,2.0,3000.0,150.0
+Tel Aviv,Florentin,8250.0,3.0,2750.0,142.24
+Tel Aviv,Florentin,6200.0,2.0,3100.0,155.0
+Tel Aviv,Florentin,7800.0,3.0,2600.0,111.43
+Tel Aviv,Florentin,6500.0,2.5,2600.0,130.0
+Tel Aviv,Florentin,7000.0,2.0,3500.0,155.56
+Tel Aviv,Florentin,5290.0,1.5,3526.67,117.56
+Tel Aviv,Florentin,7200.0,3.0,2400.0,90.0
+Tel Aviv,Florentin,8000.0,4.0,2000.0,114.29
+Tel Aviv,Florentin,7800.0,3.0,2600.0,86.67
+Tel Aviv,Florentin,4500.0,2.0,2250.0,112.5
+Tel Aviv,Florentin,7300.0,2.0,3650.0,119.67
+Tel Aviv,Florentin,10450.0,3.0,3483.33,124.4
+Tel Aviv,Florentin,12500.0,3.0,4166.67,143.68
+Tel Aviv,Florentin,11200.0,3.0,3733.33,167.16
+Tel Aviv,Florentin,7000.0,2.0,3500.0,148.94
+Tel Aviv,Florentin,7500.0,3.0,2500.0,68.18
+Tel Aviv,Florentin,7200.0,2.5,2880.0,124.14
+Tel Aviv,Florentin,8250.0,3.0,2750.0,135.25
+Tel Aviv,Florentin,18000.0,5.0,3600.0,146.34
+Tel Aviv,Florentin,8900.0,4.0,2225.0,109.88
+Tel Aviv,Florentin,6900.0,2.0,3450.0,130.19
+Tel Aviv,South Florentin,5000.0,3.0,1666.67,76.92
+Tel Aviv,Neve Shaanan,7000.0,2.0,3500.0,116.67
+Tel Aviv,Neve Tzedek,11000.0,2.0,5500.0,183.33
+Tel Aviv,Neve Tzedek,20000.0,3.0,6666.67,168.07
+Tel Aviv,Neve Shaanan,4650.0,2.0,2325.0,116.25
+Tel Aviv,Neve Shaanan,3950.0,1.5,2633.33,106.76
+Tel Aviv,Noga,12500.0,3.0,4166.67,192.31
+Tel Aviv,Neve Shaanan,6800.0,2.0,3400.0,109.68
+Tel Aviv,Neve Shaanan,12500.0,3.0,4166.67,156.25
+Tel Aviv,Neve Tzedek,39000.0,4.0,9750.0,260.0
+Tel Aviv,Neve Tzedek,13000.0,3.0,4333.33,125.0
+Tel Aviv,Neve Tzedek,30000.0,5.0,6000.0,192.31
+Tel Aviv,Neve Shaanan,4000.0,2.0,2000.0,100.0
+Tel Aviv,South Rothschild,6000.0,3.0,2000.0,109.09
+Tel Aviv,Neve Tzedek,16000.0,3.0,5333.33,219.18
+Tel Aviv,Neve Tzedek,10000.0,2.0,5000.0,153.85
+Tel Aviv,Old North Southwest,6200.0,2.0,3100.0,116.98
+Tel Aviv,Old North Southwest,15000.0,3.0,5000.0,200.0
+Tel Aviv,Lev Tel Aviv West,15000.0,3.0,5000.0,214.29
+Tel Aviv,Old North Southwest,4800.0,1.5,3200.0,96.0
+Tel Aviv,Old North Southwest,8000.0,3.0,2666.67,84.21
+Tel Aviv,Old North Southwest,16900.0,5.0,3380.0,116.55
+Tel Aviv,Old North Southwest,14500.0,3.0,4833.33,207.14
+Tel Aviv,Old North Southwest,13400.0,4.0,3350.0,163.41
+Tel Aviv,Old North Southwest,16000.0,3.0,5333.33,160.0
+Tel Aviv,Old North Southwest,7800.0,2.0,3900.0,162.5
+Tel Aviv,Old North Southwest,8400.0,3.0,2800.0,93.33
+Tel Aviv,Old North Southwest,14900.0,4.0,3725.0,135.45
+Tel Aviv,Old North Southwest,8500.0,2.0,4250.0,130.77
+Tel Aviv,Old North Southwest,22000.0,4.0,5500.0,200.0
+Tel Aviv,Old North Southwest,12000.0,3.0,4000.0,150.0
+Tel Aviv,Old North Southwest,16000.0,3.0,5333.33,152.38
+Tel Aviv,Old North Southwest,12900.0,4.0,3225.0,144.94
+Tel Aviv,Frishman,12500.0,3.0,4166.67,126.26
+Tel Aviv,Old North Southwest,9000.0,2.5,3600.0,142.86
+Tel Aviv,Old North Southwest,5500.0,2.5,2200.0,96.49
+Tel Aviv,Old North Southwest,32000.0,4.0,8000.0,256.0
+Tel Aviv,Old North Southwest,15000.0,4.0,3750.0,93.75
+Tel Aviv,Lev Tel Aviv West,14000.0,3.0,4666.67,175.0
+Tel Aviv,Old North Southwest,13900.0,3.0,4633.33,198.57
+Tel Aviv,Old North Southwest,6200.0,2.0,3100.0,147.62
+Tel Aviv,Old North Southwest,12500.0,4.0,3125.0,152.44
+Tel Aviv,Old North Southwest,9000.0,2.0,4500.0,66.67
+Tel Aviv,Old North Southwest,13500.0,3.0,4500.0,180.0
+Tel Aviv,Old North Southwest,6900.0,2.0,3450.0,106.15
+Tel Aviv,Old North Southwest,12000.0,4.0,3000.0,146.34
+Tel Aviv,Old North Southwest,17000.0,3.0,5666.67,77.27
+Tel Aviv,Old North Southwest,12000.0,3.0,4000.0,150.0
+Tel Aviv,Old North Southwest,13000.0,4.0,3250.0,152.94
+Tel Aviv,Old North Southwest,19800.0,4.0,4950.0,188.57
+Tel Aviv,Old North Southwest,35000.0,4.0,8750.0,280.0
+Tel Aviv,Old North Southeast,14900.0,2.0,7450.0,177.38
+Tel Aviv,Lev Tel Aviv West,11700.0,3.5,3342.86,117.0
+Tel Aviv,Lev Tel Aviv West,9950.0,3.0,3316.67,142.14
+Tel Aviv,Old North Southeast,14900.0,2.0,7450.0,169.32
+Tel Aviv,Old North Southeast,6800.0,2.0,3400.0,136.0
+Tel Aviv,Old North North,5500.0,1.5,3666.67,137.5
+Tel Aviv,Old North North,7500.0,2.0,3750.0,136.36
+Tel Aviv,Old North North,9500.0,3.0,3166.67,146.15
+Tel Aviv,Old North North,11000.0,3.0,3666.67,169.23
+Tel Aviv,Old North North,5300.0,2.0,2650.0,117.78
+Tel Aviv,Old North North,19500.0,4.0,4875.0,195.0
+Tel Aviv,Old North North,9500.0,2.5,3800.0,131.94
+Tel Aviv,Old North North,6500.0,2.0,3250.0,162.5
+Tel Aviv,Old North North,7300.0,2.5,2920.0,93.59
+Tel Aviv,Old North North,7000.0,3.0,2333.33,100.0
+Tel Aviv,Old North North,8700.0,2.5,3480.0,145.0
+Tel Aviv,Tel Aviv Port,10500.0,3.0,3500.0,123.53
+Tel Aviv,Old North North,8499.0,2.0,4249.5,188.87
+Tel Aviv,Old North North,9500.0,3.0,3166.67,158.33
+Tel Aviv,Old North North,7800.0,2.0,3900.0,141.82
+Tel Aviv,Old North North,10550.0,3.0,3516.67,140.67
+Tel Aviv,Old North North,10000.0,3.0,3333.33,125.0
+Tel Aviv,Old North Central,11200.0,4.0,2800.0,121.74
+Tel Aviv,Old North North,8500.0,3.0,2833.33,154.55
+Tel Aviv,Old North North,10900.0,3.0,3633.33,155.71
+Tel Aviv,Old North North,8000.0,2.5,3200.0,114.29
+Tel Aviv,Old North North,12500.0,3.0,4166.67,166.67
+Tel Aviv,Old North North,8400.0,2.0,4200.0,120.0
+Tel Aviv,Old North North,8700.0,3.0,2900.0,124.29
+Tel Aviv,Old North North,14000.0,3.0,4666.67,140.0
+Tel Aviv,Old North North,7600.0,3.0,2533.33,101.33
+Tel Aviv,Old North North,4900.0,2.0,2450.0,98.0
+Tel Aviv,Old North North,8500.0,4.0,2125.0,121.43
+Tel Aviv,Old North North,28500.0,3.0,9500.0,219.23
+Tel Aviv,Old North North,21500.0,5.0,4300.0,153.57
+Tel Aviv,Old North North,8000.0,2.0,4000.0,160.0
+Tel Aviv,Old North Central,25000.0,4.0,6250.0,208.33
+Tel Aviv,Old North North,21500.0,4.0,5375.0,179.17
+Tel Aviv,Old North North,7600.0,3.0,2533.33,95.0
+Tel Aviv,Old North North,15250.0,3.5,4357.14,185.98
+Tel Aviv,Old North North,12250.0,3.0,4083.33,167.81
+Tel Aviv,Old North North,9500.0,3.0,3166.67,105.56
+Tel Aviv,Old North North,16000.0,3.0,5333.33,160.0
+Tel Aviv,Old North North,15500.0,4.0,3875.0,155.0
+Tel Aviv,Old North North,12500.0,3.0,4166.67,125.0
+Tel Aviv,New North - Kikar HaMedina,7700.0,3.0,2566.67,96.25
+Tel Aviv,Old North Central,10800.0,4.0,2700.0,135.0
+Tel Aviv,Old North Central,6700.0,2.0,3350.0,108.06
+Tel Aviv,Lev Tel Aviv,12000.0,2.0,6000.0,196.72
+Tel Aviv,Lev Tel Aviv,9500.0,3.0,3166.67,135.71
+Tel Aviv,Lev Tel Aviv,10800.0,3.0,3600.0,154.29
+Tel Aviv,Lev Tel Aviv,15000.0,4.0,3750.0,125.0
+Tel Aviv,Lev Tel Aviv,8000.0,2.5,3200.0,160.0
+Tel Aviv,Lev Tel Aviv,8500.0,3.5,2428.57,121.43
+Tel Aviv,Lev Tel Aviv,9600.0,4.0,2400.0,120.0
+Tel Aviv,Lev Tel Aviv,19980.0,4.5,4440.0,134.09
+Tel Aviv,Lev Tel Aviv,9500.0,9.0,1055.56,70.37
+Tel Aviv,Lev Tel Aviv,13000.0,2.0,6500.0,216.67
+Tel Aviv,Sarona,7500.0,2.5,3000.0,125.0
+Tel Aviv,Lev Tel Aviv,18000.0,2.0,9000.0,109.09
+Tel Aviv,Lev Tel Aviv,9500.0,3.0,3166.67,121.79
+Tel Aviv,Lev Tel Aviv,9000.0,3.0,3000.0,128.57
+Tel Aviv,Lev Tel Aviv,11500.0,3.0,3833.33,147.44
+Tel Aviv,Nahalat Binyamin,20000.0,3.0,6666.67,266.67
+Tel Aviv,Lev Tel Aviv,14980.0,4.0,3745.0,149.8
+Tel Aviv,Lev Tel Aviv,11000.0,4.0,2750.0,84.62
+Tel Aviv,Lev Tel Aviv,19000.0,4.0,4750.0,211.11
+Tel Aviv,Lev Tel Aviv,13000.0,3.0,4333.33,185.71
+Tel Aviv,Lev Tel Aviv,15900.0,3.0,5300.0,187.06
+Tel Aviv,Lev Tel Aviv,12500.0,3.0,4166.67,166.67
+Tel Aviv,Lev Tel Aviv,12000.0,3.0,4000.0,181.82
+Tel Aviv,Lev Tel Aviv,13200.0,3.0,4400.0,176.0
+Tel Aviv,Old North Southeast,7200.0,3.0,2400.0,110.77
+Tel Aviv,Lev Tel Aviv,6750.0,2.0,3375.0,135.0
+Tel Aviv,Lev Tel Aviv,18000.0,5.0,3600.0,120.0
+Tel Aviv,Lev Tel Aviv,17500.0,5.0,3500.0,134.62
+Tel Aviv,Lev Tel Aviv,9600.0,4.0,2400.0,73.85
+Tel Aviv,Lev Tel Aviv,8200.0,3.0,2733.33,122.39
+Tel Aviv,Lev Tel Aviv,9000.0,2.0,4500.0,155.17
+Tel Aviv,Lev Tel Aviv,9000.0,2.0,4500.0,163.64
+Tel Aviv,Lev Tel Aviv,8000.0,3.0,2666.67,123.08
+Tel Aviv,Lev Tel Aviv,6000.0,1.5,4000.0,142.86
+Tel Aviv,Lev Tel Aviv,6200.0,2.0,3100.0,137.78
+Tel Aviv,Lev Tel Aviv,10900.0,4.0,2725.0,90.83
+Tel Aviv,Lev Tel Aviv,9500.0,3.0,3166.67,105.56
+Tel Aviv,Lev Tel Aviv,6000.0,2.0,3000.0,133.33
+Tel Aviv,Lev Tel Aviv,21000.0,5.0,4200.0,131.25
+Tel Aviv,Lev Tel Aviv,5200.0,2.0,2600.0,104.0
+Tel Aviv,Lev Tel Aviv,35000.0,3.0,11666.67,243.06
+Tel Aviv,Lev Tel Aviv,14500.0,3.0,4833.33,152.63
+Tel Aviv,South Rothschild,30000.0,4.0,7500.0,205.48
+Tel Aviv,Old North Southeast,10500.0,3.0,3500.0,136.36
+Tel Aviv,Old North Southeast,8400.0,3.0,2800.0,105.0
+Tel Aviv,Old North Southeast,10500.0,3.0,3500.0,116.67
+Tel Aviv,Old North Southeast,4950.0,2.0,2475.0,99.0
+Tel Aviv,Old North Southeast,18000.0,4.0,4500.0,180.0
+Tel Aviv,Old North Southeast,7500.0,2.5,3000.0,107.14
+Tel Aviv,Old North Southeast,12800.0,4.0,3200.0,128.0
+Tel Aviv,Old North Southeast,9000.0,3.0,3000.0,112.5
+Tel Aviv,Old North Southeast,15000.0,3.0,5000.0,150.0
+Tel Aviv,Old North Southeast,8100.0,3.0,2700.0,135.0
+Tel Aviv,Old North Southeast,7000.0,2.0,3500.0,116.67
+Tel Aviv,Old North Southeast,6750.0,2.0,3375.0,150.0
+Tel Aviv,Old North Southeast,6500.0,2.0,3250.0,130.0
+Tel Aviv,Old North Southeast,10500.0,2.0,5250.0,140.0
+Tel Aviv,Old North Southeast,9800.0,3.0,3266.67,115.29
+Tel Aviv,Old North Southeast,11000.0,3.5,3142.86,157.14
+Tel Aviv,Old North Central,10500.0,3.0,3500.0,136.36
+Tel Aviv,Old North Southeast,12900.0,3.0,4300.0,129.0
+Tel Aviv,Old North Southeast,10500.0,3.0,3500.0,143.84
+Tel Aviv,Old North Southeast,7200.0,2.0,3600.0,128.57
+Tel Aviv,Old North Southeast,12900.0,3.0,4300.0,198.46
+Tel Aviv,Old North Southeast,13000.0,4.0,3250.0,132.65
+Tel Aviv,Old North Southeast,9300.0,3.0,3100.0,116.25
+Tel Aviv,Old North Southeast,9300.0,3.0,3100.0,109.41
+Tel Aviv,Old North Southeast,7400.0,2.5,2960.0,113.85
+Tel Aviv,Old North Southeast,14200.0,2.0,7100.0,161.36
+Tel Aviv,Old North Southeast,7500.0,2.0,3750.0,150.0
+Tel Aviv,Old North Southeast,15000.0,3.0,5000.0,166.67
+Tel Aviv,Old North Southeast,10700.0,3.0,3566.67,133.75
+Tel Aviv,Old North Southeast,9000.0,3.5,2571.43,94.74
+Tel Aviv,Old North Southeast,40000.0,5.5,7272.73,166.67
+Tel Aviv,Old North Southeast,11000.0,3.0,3666.67,137.5
+Tel Aviv,Bitzaron,9200.0,3.0,3066.67,131.43
+Tel Aviv,New North North,9200.0,3.0,3066.67,131.43
+Tel Aviv,Old North Central,16000.0,4.0,4000.0,118.52
+Tel Aviv,New North - Kikar HaMedina,11000.0,3.0,3666.67,129.41
+Tel Aviv,Shikun Amami Gimel,5500.0,2.0,2750.0,87.3
+Tel Aviv,New North South,14000.0,3.0,4666.67,132.08
+Tel Aviv,Sarona,9000.0,2.0,4500.0,160.71
+Tel Aviv,Ramat Aviv Gimel,12800.0,4.0,3200.0,98.46
+Tel Aviv,New North North,14500.0,3.0,4833.33,166.67
+Tel Aviv,Ramat Aviv Gimel,16000.0,5.0,3200.0,117.65
+Tel Aviv,Central Jaffa,11250.0,3.0,3750.0,118.42
+Tel Aviv,Kiryat Shalom,7500.0,4.0,1875.0,89.29
+Tel Aviv,Sarona,11900.0,4.0,2975.0,132.22
+Tel Aviv,Ramat Aviv Gimel,8550.0,3.0,2850.0,106.88
+Tel Aviv,Shapira,5600.0,2.5,2240.0,86.15
+Tel Aviv,Shikun Bavli,10800.0,4.0,2700.0,93.91
+Tel Aviv,Dakar,5800.0,3.0,1933.33,72.5
+Tel Aviv,Sarona,14000.0,4.0,3500.0,135.92
+Tel Aviv,Neve Shaanan,5600.0,3.0,1866.67,112.0
+Tel Aviv,New North - Kikar HaMedina,12300.0,4.0,3075.0,87.86
+Tel Aviv,New North South,7200.0,4.0,1800.0,80.0
+Tel Aviv,Hatikva,5900.0,3.0,1966.67,67.82
+Tel Aviv,Kiryat Shalom,8500.0,3.5,2428.57,53.12
+Tel Aviv,Tel Haim,7000.0,4.0,1750.0,70.0
+Tel Aviv,New North - Kikar HaMedina,13000.0,4.0,3250.0,125.0
+Tel Aviv,Kerem HaTeimanim,12900.0,4.0,3225.0,143.33
+Tel Aviv,New North North,8300.0,2.0,4150.0,184.44
+Tel Aviv,New North North,9500.0,4.0,2375.0,100.0
+Tel Aviv,Kerem HaTeimanim,11700.0,3.0,3900.0,146.25
+Tel Aviv,Park Tzameret,40000.0,4.5,8888.89,200.0
+Tel Aviv,Northern Business District,12000.0,4.0,3000.0,109.09
+Tel Aviv,Yad Eliyahu,6000.0,3.0,2000.0,93.75
+Tel Aviv,Neve Shaanan,5500.0,2.0,2750.0,91.67
+Tel Aviv,Neve Shaanan,5300.0,3.0,1766.67,96.36
+Tel Aviv,Neve Ofer,5500.0,3.5,1571.43,91.67
+Tel Aviv,Montefiore,13500.0,3.0,4500.0,90.0
+Tel Aviv,Tel Baruch North,9250.0,3.5,2642.86,102.78
+Tel Aviv,Hadar Yosef,7500.0,3.0,2500.0,107.14
+Tel Aviv,Ezra & HaArgazim,4200.0,2.0,2100.0,105.0
+Tel Aviv,New North North,13000.0,3.0,4333.33,139.78
+Tel Aviv,New North North,18000.0,5.0,3600.0,159.29
+Tel Aviv,New North North,26000.0,5.0,5200.0,206.35
+Tel Aviv,New North North,25000.0,4.5,5555.56,164.47
+Tel Aviv,New North North,6800.0,2.5,2720.0,123.64
+Tel Aviv,New North North,8000.0,2.5,3200.0,133.33
+Tel Aviv,New North North,35000.0,6.0,5833.33,140.0
+Tel Aviv,New North North,7500.0,2.5,3000.0,250.0
+Tel Aviv,New North North,8000.0,2.5,3200.0,102.56
+Tel Aviv,New North North,10000.0,4.0,2500.0,105.26
+Tel Aviv,New North North,15000.0,4.0,3750.0,150.0
+Tel Aviv,New North North,9100.0,2.5,3640.0,144.44
+Tel Aviv,New North North,20000.0,5.0,4000.0,155.04
+Tel Aviv,New North - Kikar HaMedina,8700.0,3.5,2485.71,96.67
+Tel Aviv,New North North,17000.0,4.0,4250.0,144.07
+Tel Aviv,New North North,10500.0,3.5,3000.0,80.77
+Tel Aviv,New North North,24800.0,4.0,6200.0,165.33
+Tel Aviv,New North North,15000.0,4.0,3750.0,157.89
+Tel Aviv,New North North,17000.0,4.0,4250.0,212.5
+Tel Aviv,New North North,15000.0,3.0,5000.0,176.47
+Tel Aviv,New North North,42000.0,6.0,7000.0,190.91
+Tel Aviv,New North North,21000.0,5.0,4200.0,151.08
+Tel Aviv,New North North,10700.0,4.0,2675.0,118.89
+Tel Aviv,New North North,13000.0,4.0,3250.0,136.84
+Tel Aviv,New North North,7700.0,2.0,3850.0,106.94
+Tel Aviv,New North North,11000.0,3.5,3142.86,100.0
+Tel Aviv,New North North,10500.0,3.0,3500.0,150.0
+Tel Aviv,New North North,25000.0,4.5,5555.56,166.67
+Tel Aviv,New North North,25000.0,4.0,6250.0,166.67
+Tel Aviv,New North North,25000.0,4.0,6250.0,164.47
+Tel Aviv,New North North,25000.0,4.0,6250.0,178.57
+Tel Aviv,Shikun Bavli,11000.0,4.0,2750.0,129.41
+Tel Aviv,New North - Kikar HaMedina,23500.0,4.0,5875.0,165.49
+Tel Aviv,New North - Kikar HaMedina,25000.0,4.5,5555.56,164.47
+Tel Aviv,New North - Kikar HaMedina,21000.0,3.0,7000.0,87.5
+Tel Aviv,New North - Kikar HaMedina,16000.0,4.0,4000.0,123.08

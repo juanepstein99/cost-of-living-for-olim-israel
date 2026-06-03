@@ -1,0 +1,5 @@
+City,listings,average_rent,median_rent,average_price_per_room,median_price_per_room,average_price_per_sqm,median_price_per_sqm
+Haifa,136,4420.37,4000.0,1397.26,1266.67,54.96,50.39
+Jerusalem,159,11524.78,8650.0,2930.91,2600.0,107.64,102.74
+Ramat Gan,167,7376.4,7000.0,2159.88,2025.0,83.86,81.67
+Tel Aviv,272,11921.14,10500.0,3761.14,3500.0,136.47,133.92

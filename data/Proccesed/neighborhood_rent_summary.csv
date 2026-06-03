@@ -1,0 +1,44 @@
+City,Neighborhood,listings,average_rent,median_rent,average_price_per_sqm
+Haifa,Central Carmel,22,5622.73,4600.0,64.22
+Haifa,Downtown Haifa,7,4075.71,4200.0,58.26
+Haifa,Hadar HaCarmel,26,3703.85,3500.0,50.17
+Haifa,Neve Shaanan,15,3863.33,3800.0,47.56
+Haifa,North Carmel,8,6637.5,6500.0,70.62
+Haifa,Upper Hadar,12,3783.33,3625.0,50.2
+Haifa,West Carmel,13,4146.15,4000.0,61.45
+Haifa,Yizre'eliya,13,4234.62,4300.0,50.99
+Jerusalem,Arnona (Talpiot),13,11734.62,8800.0,95.16
+Jerusalem,Arnona Slopes,14,8792.14,8650.0,76.74
+Jerusalem,Baka,13,9388.46,7000.0,112.83
+Jerusalem,City Center,19,10431.58,9500.0,129.96
+Jerusalem,German Colony,9,17938.89,12000.0,124.09
+Jerusalem,Katamon A-F,5,12900.0,10500.0,115.26
+Jerusalem,Kiryat HaYovel,11,12236.36,9000.0,83.12
+Jerusalem,Kiryat Shmuel,5,9660.0,8600.0,124.47
+Jerusalem,Nahlaot,17,10938.24,8000.0,116.87
+Jerusalem,Rehavia,12,12433.33,9500.0,119.65
+Jerusalem,Talbiya,7,17714.29,12000.0,129.06
+Ramat Gan,Bursa District,8,8200.0,8150.0,100.0
+Ramat Gan,City Center B,8,6987.5,7000.0,78.91
+Ramat Gan,City Center C,14,8660.71,7500.0,84.95
+Ramat Gan,HaBiluim,9,6711.11,6500.0,76.74
+Ramat Gan,HaGefen,6,6241.67,5875.0,80.3
+Ramat Gan,HaHashmonaim,5,6660.0,7500.0,75.05
+Ramat Gan,HaRishonim,10,8049.9,7000.0,81.86
+Ramat Gan,Hillel,30,7851.0,8150.0,92.47
+Ramat Gan,Nahalat Ganim,8,7647.5,7100.0,95.73
+Ramat Gan,Negba Complex,7,5900.0,6000.0,65.29
+Ramat Gan,Neve Ram,13,6165.38,6900.0,77.39
+Ramat Gan,Ramat Yitzhak,6,6541.67,6475.0,88.41
+Ramat Gan,Tel Yehuda,11,7563.64,7000.0,83.88
+Ramat Gan,Yad Labanim,6,7016.67,7200.0,81.1
+Tel Aviv,Florentin,28,8996.07,7750.0,129.37
+Tel Aviv,Lev Tel Aviv,39,12200.26,10900.0,142.38
+Tel Aviv,Neve Shaanan,9,6144.44,5500.0,111.74
+Tel Aviv,Neve Tzedek,6,16666.67,14500.0,173.62
+Tel Aviv,New North - Kikar HaMedina,9,15355.56,13000.0,119.53
+Tel Aviv,New North North,34,16414.71,14750.0,150.73
+Tel Aviv,Old North Central,6,13366.67,11000.0,138.0
+Tel Aviv,Old North North,37,10912.14,9500.0,143.04
+Tel Aviv,Old North Southeast,35,11142.86,10500.0,135.86
+Tel Aviv,Old North Southwest,29,12089.66,12900.0,140.11
