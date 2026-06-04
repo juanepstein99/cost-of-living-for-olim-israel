@@ -36,6 +36,28 @@ The analysis combines rental market data with salary, transportation, grocery ba
 
 ## Key Metric
 
-Rent-to-Salary Ratio (%)
+### Rent-to-Salary Ratio (%)
 
 This metric measures the percentage of average gross salary required to pay monthly rent in each city.
+
+## Dashboard Metrics
+
+The Tableau dashboard compares cities using:
+
+* Average Salary
+* Median Rent
+* Total Monthly Cost
+* Disposable Income
+* Rent-to-Salary Ratio
+
+## Key Findings
+
+* Tel Aviv offers the highest salaries but also the highest housing costs.
+* Jerusalem shows the highest rent burden relative to income.
+* Haifa provides the lowest rental costs among the analyzed cities.
+* Ramat Gan offers a strong balance between income and living expenses.
+
+## Author
+
+Juan Epstein  
+Developers Institute – Data Analysis Bootcamp
