@@ -34,6 +34,24 @@ The analysis combines rental market data with salary, transportation, grocery ba
 * Tableau
 * Google Colab
 
+## Methodology
+
+### Salary Data
+
+Gross monthly salaries were used because publicly available salary statistics are reported in gross terms, allowing a consistent comparison across cities.
+
+### Rental Data
+
+Median rent was used instead of average rent to reduce the impact of luxury properties and extreme outliers, particularly in Jerusalem.
+
+### Outlier Filtering
+
+Listings with unrealistic price-per-square-meter values were removed before analysis.
+
+### Arnona Calculation
+
+Arnona costs were estimated using municipal tax rates and a standardized apartment size across all cities to ensure comparability.
+
 ## Key Metric
 
 ### Rent-to-Salary Ratio (%)
